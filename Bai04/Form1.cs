@@ -81,7 +81,7 @@ namespace Bai04
         List<Form2> nhanViens = new List<Form2>();
         private void Form1_Load(object sender, EventArgs e)
         {
-            dtgNhanVien.DataSource = nhanViens;
+            dtgNhanVien.DataSource = dsnv;
         }
     }
 }
