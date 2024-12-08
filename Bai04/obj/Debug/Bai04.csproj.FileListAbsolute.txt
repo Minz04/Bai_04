@@ -1,0 +1,11 @@
+F:\VS\Bai04\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+F:\VS\Bai04\Bai04\obj\Debug\Bai04.Form1.resources
+F:\VS\Bai04\Bai04\obj\Debug\Bai04.Form2.resources
+F:\VS\Bai04\Bai04\obj\Debug\Bai04.Properties.Resources.resources
+F:\VS\Bai04\Bai04\obj\Debug\Bai04.csproj.GenerateResource.cache
+F:\VS\Bai04\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+F:\VS\Bai04\Bai04\bin\Debug\Bai04.exe.config
+F:\VS\Bai04\Bai04\bin\Debug\Bai04.exe
+F:\VS\Bai04\Bai04\bin\Debug\Bai04.pdb
+F:\VS\Bai04\Bai04\obj\Debug\Bai04.exe
+F:\VS\Bai04\Bai04\obj\Debug\Bai04.pdb
